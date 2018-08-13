@@ -1,0 +1,14 @@
+name       : materia-kde
+version    : 20180701
+release    : 1
+source     :
+    - https://github.com/PapirusDevelopmentTeam/materia-kde/archive/20180701.tar.gz : bc9d3476f837ee38765435668d708faf959691cfec1cb33e242b0190d318cb08
+license    : GPL-3.0-or-later
+component  : desktop.theme
+summary    : Materia KDE customization
+rundeps    :
+    - kvantum
+description: |
+    This is a port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+install    : |
+    %make_install
