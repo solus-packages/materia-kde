@@ -1,8 +1,8 @@
 name       : materia-kde
-version    : '20180904'
-release    : 2
+version    : '20190319'
+release    : 3
 source     :
-    - https://github.com/PapirusDevelopmentTeam/materia-kde/archive/20180904.tar.gz : c3460b11826f20e79532a4649bb785db729afbb1b0981aa972c30661461d9b7e
+    - https://github.com/PapirusDevelopmentTeam/materia-kde/archive/20190319.tar.gz : 9a6c0a6294392aff8f39f529675be54f9d4c7bcefed162984af09b60a3625fdf
 license    : GPL-3.0-or-later
 component  : desktop.theme
 summary    : Materia KDE customization
